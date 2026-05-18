@@ -11,18 +11,18 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎓 B.Tech CSE @ **KIIT University**, Bhubaneswar (2023–2027)
-- 🤖 Building end-to-end AI systems — RAG pipelines, ML classifiers, backend APIs
-- 🌱 Currently exploring **LangGraph**, **MLOps**, and **Agentic AI**
-- 🏆 EY Techathon 6.0 — Top 50 of 2000+ teams
-- 🤝 Open Source Contributor @ **GSSoC (Girlscript Summer of Code)**
-- 💼 Ex-Intern @ **AcmeGrade** | Incoming IT Intern @ **IFFCO Ltd**
+-  B.Tech CSE @ **KIIT University**, Bhubaneswar (2023–2027)
+-  Building end-to-end AI systems — RAG pipelines, ML classifiers, backend APIs
+-  Currently exploring **LangGraph**, **MLOps**, and **Agentic AI**
+-  EY Techathon 6.0 — Top 50 of 2000+ teams
+-  Open Source Contributor @ **GSSoC (Girlscript Summer of Code)**
+-  Ex-Intern @ **AcmeGrade** | Incoming IT Intern @ **IFFCO Ltd**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishita-195&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
