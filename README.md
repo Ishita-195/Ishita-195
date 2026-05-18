@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ishita Anand 👩‍💻</h1>
+<h1 align="center">Hey, I'm Ishita Anand </h1>
 
 <p align="center">
   Pre-final Year B.Tech CSE @ KIIT University &nbsp;|&nbsp; ML & AI Builder &nbsp;|&nbsp; Open Source Contributor
