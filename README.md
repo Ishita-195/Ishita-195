@@ -18,7 +18,7 @@
 -  Currently exploring **LangGraph**, **MLOps**, and **Agentic AI**
 -  EY Techathon 6.0 — Qualified for Semi-Finals of 2000+ teams
 -  Open Source Contributor @ **GSSoC (Girlscript Summer of Code)**
--  Ex-Intern @ **AcmeGrade** | Incoming IT Intern @ **IFFCO Ltd**
+-  Ex-Intern @ **AcmeGrade** | IT Intern @ **IFFCO Ltd**
 
 ---
 
