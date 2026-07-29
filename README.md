@@ -79,17 +79,11 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishita-195&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita-195&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img height="165" src="https://github-readme-stats-coral-gamma-75.vercel.app/api?username=Ishita-195&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ishita's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-coral-gamma-75.vercel.app/api/top-langs/?username=Ishita-195&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishita-195&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">Building things that actually work. One commit at a time. ⚡</p>
+<p align="center"><i>Building things that actually work. One commit at a time. ⚡</i></p>
